@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SALONI2108
-- 👀 I’m interested in Data Analyst Role
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on organization which is looking for Data Analyst Role.
+- 👀 I’m in Data Science Role
+- 💞️ I’m looking to collaborate on organization which is looking for Data Science Role.
 - 📫 How to reach me email- salonigupta2108@gmail.com
 
 <!---
